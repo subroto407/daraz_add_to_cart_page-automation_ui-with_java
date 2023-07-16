@@ -12,7 +12,5 @@ Testing Site -> 🌍 https://www.daraz.com.bd/#
 ### Dependency Management Tool
  🔸Maven  
  
-### Testing reports: 
- 🔸Allure
+### Testing report
  🔸TestNG
- 🔸Surefire
